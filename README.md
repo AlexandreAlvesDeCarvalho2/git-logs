@@ -1,4 +1,4 @@
-Um pouco mais sobre git log
+# Um pouco mais sobre git log
 
 Para visualizar pelo CMD o comando (git log --oneline --all --decorate --graph) criei 2 branches e realizei um merge em uma delas.
 
@@ -53,8 +53,14 @@ mostrará os commits que não estão na branch principal  e indicará de onde é
 o graph irá simbolizar a divisão de Branch exemplo |/ 	
  
     git log --oneline --all --decorate --graph 
+    
+   
+### um meme para lembrar do comando
 
-outros comandos utilizados
+![ADOG](https://user-images.githubusercontent.com/58278707/160029204-3c166fec-7dc1-4ab2-9940-019f238015b3.jpg)
+   
+
+### outros comandos utilizados
 
     git branch -a: Lists all the branches
     git branch -d <branch-name>: Deletes the branch in local repo
