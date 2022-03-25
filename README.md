@@ -5,7 +5,8 @@ Para visualizar pelo CMD o comando (git log --oneline --all --decorate --graph) 
 
 O Resultado:
 
-[foto]
+![CMD A DOG](https://user-images.githubusercontent.com/58278707/160028887-4d5cf023-6a17-45b3-8b96-9a85852f40e2.PNG)
+
 
 Algumas formas de utilizar o log
 
